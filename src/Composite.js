@@ -33,7 +33,7 @@ const Logo = styled.img `
 `;
 
 // Create a <Wrapper> react component that renders a <div> with
-// some padding and a papayawhip background
+// some padding and a black background
 const Wrapper = styled.div `
   width : 100%;
   max-width: 300px;
