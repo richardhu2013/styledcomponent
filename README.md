@@ -1,4 +1,4 @@
-# WebpackBin project
+# React styled-components project
 
 ## Start
 
